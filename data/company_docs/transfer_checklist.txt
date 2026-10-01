@@ -1,0 +1,9 @@
+DOCUMENT: Stablecoin Reserve Checklist
+VERSION: 1.4
+CHECKLIST: R7
+
+[ ] Are reserve assets reconciled to tokens in circulation?
+[ ] Is the liquid-asset backing at least 95%?
+[ ] Save the monthly reserve report in the compliance folder.
+
+Retention note: Delete reserve records after five years.

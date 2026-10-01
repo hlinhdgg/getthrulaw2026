@@ -1,0 +1,7 @@
+DOCUMENT: TetherSG Reserve Policy
+VERSION: 2.1
+SECTION: 4.2 Reserve backing
+
+TetherSG may hold a portion of reserve assets in short-term higher-yield
+instruments. The reserve target is 95% liquid assets. Reserve records are
+retained for five years.

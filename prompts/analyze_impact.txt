@@ -1,0 +1,8 @@
+Compare the legal requirement with the company passage. Return JSON only.
+
+Return these keys:
+relationship, severity, confidence, impact_score, explanation,
+recommended_action, requires_lawyer.
+
+Use only the supplied legal and company passages. Do not invent facts. If the
+relationship is uncertain, use potentially_affected and requires_lawyer=true.

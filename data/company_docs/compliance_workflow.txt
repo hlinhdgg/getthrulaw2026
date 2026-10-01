@@ -1,0 +1,6 @@
+DOCUMENT: Stablecoin Compliance Workflow
+STEP: 6 — Reserve and redemption check
+
+If the reserve target is met, approve the monthly report. Otherwise route the
+issue to the Compliance Manager for a manual decision. The workflow does not
+currently require a five-day redemption test or a yield-product review.

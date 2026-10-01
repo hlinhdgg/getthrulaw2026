@@ -1,0 +1,7 @@
+[
+  {"from": "Proposed MAS SCS Framework", "to": "TetherSG Reserve Policy", "relationship": "implemented_by"},
+  {"from": "TetherSG Reserve Policy", "to": "Stablecoin Reserve Checklist", "relationship": "operationalised_by"},
+  {"from": "TetherSG Reserve Policy", "to": "Stablecoin Compliance Workflow", "relationship": "operationalised_by"},
+  {"from": "TetherSG Reserve Policy", "to": "Stablecoin Operations Training Guide", "relationship": "trained_by"},
+  {"from": "TetherSG Reserve Policy", "to": "Stablecoin Client Advisory Template", "relationship": "summarised_by"}
+]

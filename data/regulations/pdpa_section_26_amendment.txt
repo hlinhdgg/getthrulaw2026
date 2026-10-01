@@ -1,0 +1,15 @@
+TITLE: Proposed MAS SCS Framework Update (Demo)
+SOURCE: Singapore Government Gazette (synthetic demo extract)
+PUBLICATION_DATE: 2026-09-04
+EFFECTIVE_DATE: Proposed — confirm official commencement date
+
+AMENDMENT SUMMARY
+The proposed framework would introduce stricter requirements for Singapore-dollar
+and G10 single-currency stablecoins, including reserve backing, redemption and
+holder-reward restrictions.
+
+NEW REQUIREMENT
+The issuer must maintain 100% high-quality liquid-asset backing, support
+redemption within five days, and not pay yield to stablecoin holders.
+
+This file is synthetic demo material and is not legal advice.

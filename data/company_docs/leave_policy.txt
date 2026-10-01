@@ -1,0 +1,5 @@
+DOCUMENT: Office Leave Policy
+VERSION: 3.0
+
+Employees receive annual leave according to their employment terms. This
+policy does not address stablecoin issuance, reserves or redemption.

@@ -1,0 +1,4 @@
+Suggest a minimal proposed edit to the company passage based only on the new
+legal requirement. Return the original text, proposed text, reason and a
+confidence level. Never silently edit the source document. Flag uncertainty
+for human review.

@@ -1,0 +1,5 @@
+DOCUMENT: Stablecoin Client Advisory Template
+SECTION: Reserve and redemption disclosures
+
+Our current client terms describe reserve backing and rewards. Clients may
+request additional information from the Compliance Team.

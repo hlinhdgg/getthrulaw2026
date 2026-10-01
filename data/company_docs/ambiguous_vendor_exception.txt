@@ -1,0 +1,6 @@
+DOCUMENT: Yield Product Exception Request
+SECTION: Business justification
+
+For strategic customers, TetherSG may offer a rewards programme tied to token
+balances if the Head of Product approves the request. The request does not
+state whether the reward is legally considered yield.

@@ -1,0 +1,6 @@
+DOCUMENT: Stablecoin Operations Training Guide
+MODULE: Reserves and redemption
+
+Operations staff should reconcile reserves monthly and escalate exceptions.
+The current training does not explain five-day redemption or the proposed
+restriction on paying yield to stablecoin holders.
